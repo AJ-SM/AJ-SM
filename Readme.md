@@ -1,3 +1,5 @@
+
+
 <p align="center">
-  <img width="100%" alt="cozy_himalaya_coding" src="https://github.com/user-attachments/assets/9e6f687c-93a6-426b-974b-30a04c703dc7" />
+  <img width="100%" alt="cozy_himalaya_coding"src="https://github.com/user-attachments/assets/8ebc7407-1044-489f-b324-6691c866bdb2"/>
 </p>
